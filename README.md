@@ -1,7 +1,7 @@
 SMArt Sample Apps
 Joshua dot Mandel at childrens.harvard.edu
 
-This repository contains a collection of sample SMArt Connect Apps:
+This repository contains a collection of sample SMART Sample Apps:
  
  * API Playground 
  * Got Statins
